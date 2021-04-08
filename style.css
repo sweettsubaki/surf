@@ -1,0 +1,108 @@
+body {
+    background-color: #fff
+}
+
+
+/*Navbar*/
+.navbar {
+    background-color: #353942;
+}
+/*Navbar*/
+
+
+/* boutons header*/
+.header h1
+{
+    color:#ffffff;
+    text-align:center;
+    font-size:40px;
+}
+
+.header h4
+{
+    color:#ffffff;
+    text-align:center;    
+}
+
+.btn btn-primary
+
+{
+    height:64px;
+    width:64px;
+
+}
+
+.text-center {
+    padding-top: 40px;
+}
+
+button .btn-primary
+{
+    text-align:center;
+}
+/* bouttons header*/
+
+
+/* TSF in 3 points */
+.card {
+    border-color: transparent;
+    background-color: transparent;
+  }
+
+.titletsp h1 {
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+    padding-top:70px;
+}
+
+.titletsp .card {
+    padding-top: 40px;
+    text-align: center;
+    border:none;
+}
+
+
+.titletsp .card p i
+{
+    font-size:70px;
+    text-align:right;
+}
+/* TSF in 3 points */
+
+
+/* Witness */
+.tem h1 {
+    color: #000000;
+    font-size: 60px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding-top: 70px;
+}
+/* Witness */
+
+/* wage */
+.price h1 {
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.price h4
+{
+    color:#000000;
+    ;
+}
+
+.price small
+{
+    color:#808080
+}
+/* wage */
+
+/* footer */
+
+footer{
+    color:#808080
+}
